@@ -1,0 +1,826 @@
+{
+    "basics": {
+        "name": "Anas Elgarhy",
+        "email": "anas.elgarhy.dev@gmail.com",
+        "phone": "+201121125645",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 160,
+                "shape": "circle",
+                "border": true,
+                "grayscale": true
+            },
+            "visible": true
+        },
+        "summary": "I am Anas, a software engineer with a passion for using technology to create solutions and make a positive impact in the world. I have over 3 years of experience in Java and expertise in a variety of other languages including C++, C, Rust, Python, Kotlin, and JavaScript. I have completed numerous projects, including over 45 on GitHub, and am a quick learner with the ability to pick up new languages and techniques quickly. Likewise, I have been interested in computers and technology since I was young, and began my programming journey with HTML at the age of 13. I am excited to continue growing in my career as a software engineer and am eager to take on new challenges.",
+        "website": "",
+        "headline": "Software Engineer",
+        "location": {
+            "city": "",
+            "region": "",
+            "address": "",
+            "country": "Egypt",
+            "postalCode": "61678"
+        },
+        "profiles": [
+            {
+                "id": "423cc82f-e057-4f84-a8b8-69adf22d27d6",
+                "url": "https://www.linkedin.com/in/anas-elgarhy",
+                "network": "LinkedIn",
+                "username": "anas-elgarhy"
+            },
+            {
+                "id": "0a138941-f886-4c72-8969-a12adc6824df",
+                "url": "https://github.com/anas-elgarhy",
+                "network": "GitHub",
+                "username": "anas-elgarhy"
+            },
+            {
+                "id": "eb15ba0c-fb68-40a6-86dd-da10a16a1fb8",
+                "url": "https://gitlab.com/anas-elgarhy",
+                "network": "GitLab",
+                "username": "anas-elgarhy"
+            },
+            {
+                "id": "cd7fbafe-9856-41c9-bcd9-508a67ab10b4",
+                "url": "https://twitter.com/anas_elgarhy",
+                "network": "Twitter",
+                "username": "anas_elgarhy"
+            }
+        ],
+        "birthdate": "2003-03-26T13:40:00.000Z"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "529c8db4-7752-4a75-9f01-5181388ddd06",
+                    "name": "Git",
+                    "level": "Intermediate expert",
+                    "keywords": [
+                        "GitHub",
+                        "GitLab",
+                        "Bitnbucket",
+                        "Codeberg"
+                    ],
+                    "levelNum": 8
+                },
+                {
+                    "id": "452a7370-f373-4aac-b21a-af7cf8fc4280",
+                    "name": "Android Devolplment",
+                    "level": "Medum",
+                    "keywords": [
+                        "Java",
+                        "Kotlin"
+                    ],
+                    "levelNum": 3
+                },
+                {
+                    "id": "e841481c-b5f4-4ea5-a1a2-2687ff1d29a7",
+                    "name": "Frontend",
+                    "level": "Beginner",
+                    "keywords": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Python "
+                    ],
+                    "levelNum": 3
+                },
+                {
+                    "id": "3420f033-1af4-4aaa-9e54-776b68f4e96f",
+                    "name": "Descktop aplication devolopment",
+                    "level": "expert",
+                    "keywords": [
+                        "Swing",
+                        "JavaFx",
+                        "Maven",
+                        "Java",
+                        "Gradle",
+                        "C, C++",
+                        "Rust",
+                        "Gtk"
+                    ],
+                    "levelNum": 7
+                },
+                {
+                    "id": "227d4dc0-dfaf-4e67-8977-e6811480a628",
+                    "name": "Backend ",
+                    "level": "Average ",
+                    "keywords": [
+                        "Java",
+                        "Spring ",
+                        "Spring boot ",
+                        "MongoDB",
+                        "JUnit5",
+                        "Postgresql"
+                    ],
+                    "levelNum": 6
+                }
+            ],
+            "columns": null,
+            "visible": false
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "faa40ac6-57d6-4d8c-90a0-5d7a7c38feaf",
+                    "url": "https://github.com/anas-elgarhy/Ayah-intellij",
+                    "date": {
+                        "end": "2022-08-22T19:15:25.000Z",
+                        "start": "2022-08-18T19:14:16.000Z"
+                    },
+                    "name": "Ayah - IntelliJ IDEA Plugin",
+                    "summary": "",
+                    "keywords": [],
+                    "description": "a plugin for the IntelliJ IDEA platform that displays verses from the Holy Qur'an to Muslim developers"
+                },
+                {
+                    "id": "b5dd1aac-41d2-41c1-844a-c114dda6363c",
+                    "url": "https://github.com/anas-elgarhy/alquran-cloud-api",
+                    "date": {
+                        "end": "2022-07-05T17:54:11.000Z",
+                        "start": "2022-07-02T17:53:54.000Z"
+                    },
+                    "name": "alquran-cloud-api",
+                    "summary": "",
+                    "keywords": [],
+                    "description": "A simple java wrapper library for alquran-cloud api"
+                },
+                {
+                    "id": "f5ce620a-b9e4-45a6-b2de-80c6d0c013ed",
+                    "url": "https://github.com/anas-elgarhy/cmus-rpc-rs",
+                    "date": {
+                        "end": "2022-08-10T05:32:16.000Z",
+                        "start": "2022-07-28T05:31:49.000Z"
+                    },
+                    "name": "cmus-rpc-rs",
+                    "summary": "",
+                    "keywords": [],
+                    "description": " Discord Rich Presence for C* Music Player using rust"
+                },
+                {
+                    "name": "bfy",
+                    "description": "Brainfu*k interpreter and REPL written in Rust",
+                    "date": {
+                        "start": "2022-10-07",
+                        "end": "2022-02-15"
+                    },
+                    "url": "https://github.com/anas-elgarhy/bfy",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "9bd117ab-28a8-482f-aa48-8faea7e18911"
+                },
+                {
+                    "name": "Hear me app",
+                    "description": "An application that helps people with special needs who are deaf and dumb in their daily lives",
+                    "date": {
+                        "start": "2020-09-16",
+                        "end": "2020-09-18"
+                    },
+                    "url": "https://github.com/anas-stuff/Hear-me-app",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "da042591-e11c-437a-ae86-e17a5c16bd9e"
+                },
+                {
+                    "name": "QuranFM",
+                    "description": "Discord bot to simulate the Holy Quran Radio",
+                    "date": {
+                        "start": "2023-07-08",
+                        "end": "2022-07-10"
+                    },
+                    "url": "https://github.com/anas-stuff/QuranFM",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "b0565c9b-a59d-402f-bf68-98ffe0a5836b"
+                },
+                {
+                    "name": "JSimple Text Editor",
+                    "description": "A simple Java text editor using swing and support multi tabs",
+                    "date": {
+                        "start": "2022-03-01",
+                        "end": "2022-03-03"
+                    },
+                    "url": "https://github.com/anas-stuff/JSimpleTextEdtor",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "63db53d5-e730-4791-805b-ec39f37783bf"
+                },
+                {
+                    "name": "Suggest a activity app",
+                    "description": "Suggesting a activity for the Barmij.com android camp",
+                    "date": {
+                        "start": "2020-09-10",
+                        "end": "2020-09-19"
+                    },
+                    "url": "https://github.com/anas-stuff/Suggest-activity-app",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "fbb98070-30ad-4653-ad38-828947e973eb"
+                },
+                {
+                    "name": "jls",
+                    "description": "A modern alternative to GNU/ls using Java",
+                    "date": {
+                        "start": "2022-06-03",
+                        "end": "2022-06-28"
+                    },
+                    "url": "https://github.com/anas-stuff/jls",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "fd8b1d7a-8aea-479f-9291-73e40b83452d"
+                },
+                {
+                    "name": "aarty",
+                    "description": "A simple CLI tool to convert the images to ASCII art",
+                    "date": {
+                        "start": "2022-10-03",
+                        "end": "2022-10-05"
+                    },
+                    "url": "https://github.com/anas-elgarhy/aarty",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "d87c3f7f-85a7-4ed7-a4f2-cf86e7d6e8b3"
+                },
+                {
+                    "name": "jpwd",
+                    "description": "A modern alternative to GNU/pwd using Java",
+                    "date": {
+                        "start": "2022-06-13",
+                        "end": "2022-06-23"
+                    },
+                    "url": "https://github.com/anas-elgarhy/jpwd",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "357d6df1-e3bf-494a-9e78-e7cd3042b5c0"
+                },
+                {
+                    "name": "cmus-rpc",
+                    "description": "A Discord Rich Presence for cmus player using java",
+                    "date": {
+                        "start": "2022-04-07",
+                        "end": "2022-04-13"
+                    },
+                    "url": "https://github.com/anas-stuff/cmus-rpc",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "9ccac4ba-2df5-459c-8094-b01487d94519"
+                },
+                {
+                    "name": "JColorfulConsole",
+                    "description": "A simple library that enables developers to print colored and styled text in the terminal with Java",
+                    "date": {
+                        "start": "2022-03-24",
+                        "end": "2022-03-26"
+                    },
+                    "url": "https://github.com/anas-elgarhy/JColorfulConsole",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "fee27b1e-b40a-4300-80e5-e28dacea4785"
+                },
+                {
+                    "name": "Heritage word game",
+                    "description": "Guessing Historical Objects Game Project Barmij.com android Camp",
+                    "date": {
+                        "start": "2020-09-21",
+                        "end": "2020-09-27"
+                    },
+                    "url": "https://github.com/anas-stuff/Heritage-word-game-project",
+                    "summary": "",
+                    "keywords": [],
+                    "id": "a86a68cb-d8ca-439c-b07d-744b3810bc74"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "956410ad-782f-4fc6-ad4e-535cd545f2ae",
+                    "url": "https://www.eelu.edu.eg/",
+                    "area": "Information technology",
+                    "date": {
+                        "end": "",
+                        "start": "2020-08-01T12:06:35.000Z"
+                    },
+                    "score": "3.09",
+                    "degree": "Student",
+                    "courses": [],
+                    "summary": "As a student in an online IT college program, I have had the wonderful experience of learning a variety of technical subjects that I am passionate about. My education so far has provided me with a well-rounded foundation in subjects including:\n* The Java programming language.\n* Operating systems.\n* Software engineering.\n* Database systems.\n* Artificial intelligence.\n* Computer graphics.\n* Network systems.\n\nIn my computer graphics course, I gained experience with the C programming language and the OpenGL graphics library. In my artificial intelligence course, I have worked with Python. My studies have prepared me for a successful career in the field of IT, and my current level of education, combined with my ability to independently learn and manage my time, make me a valuable asset to any team seeking a skilled and knowledgeable IT professional with a strong foundation in computer graphics and network systems. I have truly enjoyed learning these subjects and am excited to continue my education and career in the field.",
+                    "institution": "Egyptian E-learning University"
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "3c000016-8db3-4789-a31c-30a2409bb4c4",
+                    "name": "Linux",
+                    "keywords": [
+                        "Bash",
+                        "C",
+                        "vim",
+                        "CLI",
+                        "Arch",
+                        "Gentoo",
+                        "zsh",
+                        "Ubuntu",
+                        "WM's",
+                        "Gnome",
+                        "KDE"
+                    ]
+                },
+                {
+                    "id": "c59cc4cd-be72-42bb-84ae-c20a89279224",
+                    "name": "Open-source",
+                    "keywords": [
+                        "GitHub",
+                        "GitLab",
+                        "Linux",
+                        "GNU",
+                        "Citea",
+                        "CodeBerg"
+                    ]
+                },
+                {
+                    "id": "9e199ebe-f888-4b1b-beaa-93998a2f38af",
+                    "name": "Games Engines",
+                    "keywords": [
+                        "Godot",
+                        "Unreal",
+                        "Hazel",
+                        "C++",
+                        "Bevy"
+                    ]
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "85c6885c-9feb-4ba9-b264-9daee2e0a665",
+                    "name": "Engilsh",
+                    "level": "Very Good",
+                    "levelNum": 8
+                },
+                {
+                    "id": "2d636f90-9cba-461c-9d5b-a9c12a45e592",
+                    "name": "Arabic",
+                    "level": "Native",
+                    "levelNum": 10
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8916d193-67c1-4289-8317-546b44a47083",
+                    "url": "https://github.com/burtonageo/cargo-bundle/pull/130",
+                    "date": {
+                        "end": "2023-03-16",
+                        "start": "2023-01-12"
+                    },
+                    "summary": "Create a separate Linux module and separate the common functions into one separate file",
+                    "position": "Contributor",
+                    "organization": "cargo-bundle"
+                },
+                {
+                    "id": "15dfd75c-2473-4de4-809b-17573f2548bd",
+                    "url": "https://github.com/orhun/gpg-tui/pull/56",
+                    "date": {
+                        "end": "2023-05-25",
+                        "start": "2023-05-15"
+                    },
+                    "summary": "Upgrade the clap crate version from 3.2.23 to 4.2.7 and the clap_complete crate version from 3.2.5 to 4.2.3",
+                    "position": "Contributor",
+                    "organization": "gpg-tui"
+                },
+                {
+                    "id": "f5e49df3-d3e6-447e-a97f-b6a0cb9e9254",
+                    "url": "https://github.com/hiro-codes/bolt/pull/67",
+                    "date": {
+                        "end": "2023-04-12",
+                        "start": "2023-04-12"
+                    },
+                    "summary": "I created the configuration for the `Just` task runner",
+                    "position": "Contributor",
+                    "organization": "bolt"
+                },
+                {
+                    "id": "4b70dbeb-eaa2-4d01-9d76-5169b4e0be7b",
+                    "url": "https://github.com/YosefJoo/ScreenshotMouseClick",
+                    "date": {
+                        "end": "",
+                        "start": "2022-05-27T18:23:09.000Z"
+                    },
+                    "summary": "",
+                    "position": "Devolper",
+                    "organization": "ScreenshotMouseClick"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "f2cac3f5-f942-4e68-92fd-e66e2caad97e",
+                    "url": "https://drive.google.com/file/d/1QBLiYHVWWcgVa5-T35dWny1HjZXzTJCv/view",
+                    "date": "2021-07-05T07:40:32.000Z",
+                    "name": "Learn programming in C++",
+                    "issuer": "Barmej.com",
+                    "summary": "I received the Learn programming in C++ Certification from Barmij.com, where I learned the basics of programming in C++. This included concepts such as flow control statements, functions, classes, and object-oriented programming principles. I also learned about pointers and how to use them effectively in C++. This certification demonstrates my understanding of the C++ language and my ability to write code using its features and constructs."
+                },
+                {
+                    "id": "f36cf54e-2ce1-41e0-a3fb-94630cb30bb6",
+                    "url": "https://drive.google.com/file/d/1V5qL5FL71xs3jGxNUChuu-v4bo9xPS66/view",
+                    "date": "2021-07-05T07:45:44.000Z",
+                    "name": "Introduction to programming",
+                    "issuer": "Barmej.com",
+                    "summary": "I received the Introduction to programming certification from Barmij.com, which provided me with a solid foundation in the field of programming. The course covered basic concepts such as computer and network fundamentals, as well as an introduction to web technologies such as HTML, CSS, and JavaScript. This certification was instrumental in my early development as a software engineer and gave me a strong foundation on which to build my skills and knowledge."
+                },
+                {
+                    "id": "b80fc46a-116b-4038-9ca2-ee418fe83d25",
+                    "url": "https://drive.google.com/file/d/1ijEq3pqtscxcQBevg3ZBRQABcuV0U8If/view",
+                    "date": "2021-04-19T08:13:12.000Z",
+                    "name": "Introduction to the black screen",
+                    "issuer": "Barmej.com",
+                    "summary": "I received the Introduction to the black screen certification from Barmij.com, where I learned the basics of using the terminal and command line interface. This included topics such as navigating the file system, manipulating files and directories, and running programs from the command line. I also learned about secure shell (SSH) and how to use it to remotely access and control other systems. This certification demonstrates my understanding of the terminal and command line and my ability to use them effectively."
+                }
+            ],
+            "columns": 1,
+            "visible": true
+        },
+        "1f153112-86cc-4256-8247-d72e368b1c26": {
+            "name": "",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "06662100-faeb-4f6d-89c4-c6dfffc98c9e",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "Beginner",
+                    "title": "Python",
+                    "summary": "I am skilled in the Python programming language and have experience writing complicated scripts to automate processes such as builds and installations for my projects. I have also created simple bots using Python to assist me in my daily life, and have utilized various libraries while working with the language. Likewise, I have a strong ability to read and write Python code and am comfortable working with the language. While I have not used Python for production projects at this time, my skills and experience, including my familiarity with various libraries, make me a valuable asset to any team seeking a programmer with a foundation in Python.",
+                    "keywords": [],
+                    "levelNum": 4,
+                    "subtitle": ""
+                },
+                {
+                    "id": "822a2a99-3509-452a-a234-5dce53b5ce15",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "Beginner",
+                    "title": "Docker",
+                    "summary": "I have basic knowledge of Docker and have used it to containerize applications for development and deployment. I have experience creating Docker images, running containers, and managing them using Docker commands and tools. Furthermore, I have also used Docker to package and distribute applications and to automate the deployment process.",
+                    "keywords": [],
+                    "levelNum": 2,
+                    "subtitle": ""
+                },
+                {
+                    "id": "eec88c99-0deb-4dd0-aee2-08cb9714167e",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2022-01-19"
+                    },
+                    "level": "",
+                    "title": "Linux",
+                    "summary": "I have experience with a wide range of Linux distributions, like Ubuntu, Manjaro, Arch, openSUSE, and Debian. And I have used many of them personally or for work. I have gained a wide range of skills through my experience with Linux, including managing a system through the command line, installing and configuring software, and troubleshooting issues. Currently, I am using the Arch Linux distribution as my primary personal system, which has further enhanced my skills in using and managing a Linux-based system.",
+                    "keywords": [],
+                    "levelNum": 5,
+                    "subtitle": ""
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "7221d20e-c27a-45c3-a84e-956ab5a12c93": {
+            "name": "Tools",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "25900ca0-5c63-43c1-a006-afd9dbf405ce",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2020-02-17T22:00:00.000Z"
+                    },
+                    "level": "Expert",
+                    "title": "Java",
+                    "summary": "I am a software engineer with over 600 hours of experience coding in Java. I have extensive knowledge of the language and its libraries and frameworks, including Spring, Spring Boot, and JUnit. Likewise, I have successfully applied my skills to more than 50 projects, demonstrating my ability to effectively utilize Java in a variety of contexts. In addition to my technical skills, I have strong project management abilities and am able to take charge of a project from the ground up, overseeing it through to its first release.",
+                    "keywords": [],
+                    "levelNum": 8,
+                    "subtitle": ""
+                },
+                {
+                    "id": "e3c99fd6-f298-4c2a-a485-93e2c4ddef6b",
+                    "url": "https://crates.io/users/anas-elgarhy",
+                    "date": {
+                        "end": "",
+                        "start": "2022-07-20T22:00:00.000Z"
+                    },
+                    "level": "Beginner",
+                    "title": "Rust",
+                    "summary": "I am a software engineer with over 200 hours of experience coding in Rust. I have a strong foundation in the language and am able to write high-quality code and unit tests. My experience working on a variety of projects has allowed me to become proficient in using various frameworks and libraries, and my active learning approach has enabled me to stay up to date with the latest developments in Rust.",
+                    "keywords": [],
+                    "levelNum": 5,
+                    "subtitle": ""
+                },
+                {
+                    "id": "e9c9b193-c5b2-41e0-ae35-1b7393dd7cd5",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2018-02-27T22:00:00.000Z"
+                    },
+                    "level": "Beginner",
+                    "title": "C/C++",
+                    "summary": "I have a strong understanding of computer principles and programming, and possess basic or intermediate knowledge of the C and C++ programming languages. I have a solid understanding of their grammars and am able to read and understand code written in them to a great degree. While I have worked on projects using C and C++, they are not currently a primary focus of my interest. Despite this, my knowledge and experience with these languages, combined with my strong understanding of computer principles and programming.",
+                    "keywords": [],
+                    "levelNum": 2,
+                    "subtitle": ""
+                },
+                {
+                    "id": "37466037-a093-48c1-8c32-010f3e625e28",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "Beginner",
+                    "title": "Bash and shell scripting",
+                    "summary": "As a programmer who uses the Linux operating system as my main platform and works with Bash and shell scripts on a daily basis, I have developed strong skills in these areas. I am proficient in using Bash and shell scripts to automate tasks and have a basic understanding of these technologies that allows me to troubleshoot and find solutions to problems.",
+                    "keywords": [],
+                    "levelNum": 4,
+                    "subtitle": ""
+                },
+                {
+                    "id": "71864b51-09e2-44bc-b0c5-04598b09378a",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "level": "Beginner",
+                    "title": "PostgreSQL",
+                    "summary": "I have intermediate knowledge of PostgreSQL and have used it in several projects. I have experience setting up and configuring PostgreSQL databases, creating tables and relationships, and querying data using SQL. Likewise, I have also used PostgreSQL's features, such as indexing and transactions, to optimize performance and ensure data integrity. ",
+                    "keywords": [],
+                    "levelNum": 2,
+                    "subtitle": ""
+                },
+                {
+                    "title": "HTML, CSS, and JavaScript",
+                    "subtitle": "",
+                    "date": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "url": "",
+                    "level": "Advanced Beginner",
+                    "levelNum": 5,
+                    "summary": "I have basic knowledge of HTML, CSS, and JavaScript and have used them to create simple websites. I have experience using HTML to structure and organize content, using CSS to style and layout pages, and using JavaScript to add interactivity and functionality to websites. Likewise, I have also used these technologies to create responsive designs that work on a variety of devices. ",
+                    "keywords": [],
+                    "id": "7220e5f6-be7f-43f1-a55b-e54637c1f244"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "dee004c4-fe99-41e6-bbe9-eaa880812d65": {
+            "name": "Tools....",
+            "type": "custom",
+            "items": [
+                {
+                    "id": "094105c3-efe5-41c0-b89e-ca0ddcd4f099",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2018-02-14"
+                    },
+                    "level": "Expert",
+                    "title": "Intellij IDEA",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 8,
+                    "subtitle": ""
+                },
+                {
+                    "id": "055c30cd-d331-463d-ba6d-f4008a15daab",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2022-09-28"
+                    },
+                    "level": "Expert",
+                    "title": "CLion",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 6,
+                    "subtitle": ""
+                },
+                {
+                    "id": "34eee40c-7470-40af-91e4-de3fd60852c9",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2019-08-20"
+                    },
+                    "level": "intermediate",
+                    "title": "Git",
+                    "summary": "",
+                    "keywords": [],
+                    "levelNum": 6,
+                    "subtitle": ""
+                },
+                {
+                    "title": "Vim & NeoVim",
+                    "subtitle": "",
+                    "date": {
+                        "start": "2022-09-03",
+                        "end": ""
+                    },
+                    "url": "",
+                    "level": "intermediate",
+                    "levelNum": 5,
+                    "summary": "",
+                    "keywords": [],
+                    "id": "2b8d3388-1d15-421d-b358-461b5f7af79c"
+                },
+                {
+                    "title": "Microsoft word",
+                    "subtitle": "",
+                    "date": {
+                        "start": "2016-08-01",
+                        "end": ""
+                    },
+                    "url": "",
+                    "level": "Expert",
+                    "levelNum": 10,
+                    "summary": "",
+                    "keywords": [],
+                    "id": "9581d696-1da9-4201-b007-a906c3e6a2d3"
+                },
+                {
+                    "title": "Power point",
+                    "subtitle": "",
+                    "date": {
+                        "start": "2016-05-11",
+                        "end": ""
+                    },
+                    "url": "",
+                    "level": "Expert",
+                    "levelNum": 10,
+                    "summary": "",
+                    "keywords": [],
+                    "id": "e1d90a4e-d0c1-43ab-8886-c58bb96332bb"
+                }
+            ],
+            "columns": 3,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "\n\n",
+            "visible": true
+        },
+        "date": {
+            "format": "MMMM DD, YYYY"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#3444a2",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "skills"
+                ],
+                []
+            ],
+            [
+                [
+                    "projects"
+                ],
+                []
+            ],
+            [
+                [
+                    "7221d20e-c27a-45c3-a84e-956ab5a12c93"
+                ],
+                []
+            ],
+            [
+                [
+                    "1f153112-86cc-4256-8247-d72e368b1c26",
+                    "dee004c4-fe99-41e6-bbe9-eaa880812d65"
+                ],
+                []
+            ],
+            [
+                [
+                    "volunteer",
+                    "certifications"
+                ],
+                []
+            ],
+            [
+                [
+                    "awards",
+                    "interests",
+                    "languages"
+                ],
+                [
+                    "publications",
+                    "references"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "language": "en",
+        "template": "onyx",
+        "typography": {
+            "size": {
+                "body": 17,
+                "heading": 30
+            },
+            "family": {
+                "body": "Nunito Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
