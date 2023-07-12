@@ -13,7 +13,7 @@
             },
             "visible": true
         },
-        "summary": "I am Anas, a software engineer with a passion for using technology to create solutions and make a positive impact in the world. I have over 3 years of experience in Java and expertise in a variety of other languages including C++, C, Rust, Python, Kotlin, and JavaScript. I have completed numerous projects, including over 45 on GitHub, and am a quick learner with the ability to pick up new languages and techniques quickly. Likewise, I have been interested in computers and technology since I was young, and began my programming journey with HTML at the age of 13. I am excited to continue growing in my career as a software engineer and am eager to take on new challenges.",
+        "summary": "I am Anas, a software engineer with a passion for using technology to create solutions and make a positive impact in the world. I have over 3 years of experience in Java and expertise in a variety of other languages including C++, C, Rust, Python, Kotlin, and JavaScript. I have completed numerous projects, including over 45 on GitHub, and am a quick learner with the ability to pick up new languages and techniques quickly. Likewise, I have been interested in computers and technology since I was young and began my programming journey with HTML at the age of 16. I am excited to continue growing in my career as a software engineer and am eager to take on new challenges.",
         "website": "",
         "headline": "Software Engineer",
         "location": {
@@ -25,15 +25,15 @@
         },
         "profiles": [
             {
+                "id": "0a138941-f886-4c72-8969-a12adc6824df",
+                "url": "https://github.com/0x61nas",
+                "network": "GitHub",
+                "username": "0x61nas"
+            },
+            {
                 "id": "423cc82f-e057-4f84-a8b8-69adf22d27d6",
                 "url": "https://www.linkedin.com/in/anas-elgarhy",
                 "network": "LinkedIn",
-                "username": "anas-elgarhy"
-            },
-            {
-                "id": "0a138941-f886-4c72-8969-a12adc6824df",
-                "url": "https://github.com/anas-elgarhy",
-                "network": "GitHub",
                 "username": "anas-elgarhy"
             },
             {
@@ -44,9 +44,9 @@
             },
             {
                 "id": "cd7fbafe-9856-41c9-bcd9-508a67ab10b4",
-                "url": "https://twitter.com/anas_elgarhy",
+                "url": "https://twitter.com/0x61nas",
                 "network": "Twitter",
-                "username": "anas_elgarhy"
+                "username": "0x61nas"
             }
         ],
         "birthdate": "2003-03-26T13:40:00.000Z"
@@ -183,136 +183,136 @@
                     "description": " Discord Rich Presence for C* Music Player using rust"
                 },
                 {
-                    "name": "bfy",
-                    "description": "Brainfu*k interpreter and REPL written in Rust",
-                    "date": {
-                        "start": "2022-10-07",
-                        "end": "2022-02-15"
-                    },
+                    "id": "9bd117ab-28a8-482f-aa48-8faea7e18911",
                     "url": "https://github.com/anas-elgarhy/bfy",
+                    "date": {
+                        "end": "2022-02-15",
+                        "start": "2022-10-07"
+                    },
+                    "name": "bfy",
                     "summary": "",
                     "keywords": [],
-                    "id": "9bd117ab-28a8-482f-aa48-8faea7e18911"
+                    "description": "Brainfu*k interpreter and REPL written in Rust"
                 },
                 {
-                    "name": "Hear me app",
-                    "description": "An application that helps people with special needs who are deaf and dumb in their daily lives",
-                    "date": {
-                        "start": "2020-09-16",
-                        "end": "2020-09-18"
-                    },
+                    "id": "da042591-e11c-437a-ae86-e17a5c16bd9e",
                     "url": "https://github.com/anas-stuff/Hear-me-app",
+                    "date": {
+                        "end": "2020-09-18",
+                        "start": "2020-09-16"
+                    },
+                    "name": "Hear me app",
                     "summary": "",
                     "keywords": [],
-                    "id": "da042591-e11c-437a-ae86-e17a5c16bd9e"
+                    "description": "An application that helps people with special needs who are deaf and dumb in their daily lives"
                 },
                 {
-                    "name": "QuranFM",
-                    "description": "Discord bot to simulate the Holy Quran Radio",
-                    "date": {
-                        "start": "2023-07-08",
-                        "end": "2022-07-10"
-                    },
+                    "id": "b0565c9b-a59d-402f-bf68-98ffe0a5836b",
                     "url": "https://github.com/anas-stuff/QuranFM",
+                    "date": {
+                        "end": "2022-07-10",
+                        "start": "2023-07-08"
+                    },
+                    "name": "QuranFM",
                     "summary": "",
                     "keywords": [],
-                    "id": "b0565c9b-a59d-402f-bf68-98ffe0a5836b"
+                    "description": "Discord bot to simulate the Holy Quran Radio"
                 },
                 {
-                    "name": "JSimple Text Editor",
-                    "description": "A simple Java text editor using swing and support multi tabs",
-                    "date": {
-                        "start": "2022-03-01",
-                        "end": "2022-03-03"
-                    },
+                    "id": "63db53d5-e730-4791-805b-ec39f37783bf",
                     "url": "https://github.com/anas-stuff/JSimpleTextEdtor",
+                    "date": {
+                        "end": "2022-03-03",
+                        "start": "2022-03-01"
+                    },
+                    "name": "JSimple Text Editor",
                     "summary": "",
                     "keywords": [],
-                    "id": "63db53d5-e730-4791-805b-ec39f37783bf"
+                    "description": "A simple Java text editor using swing and support multi tabs"
                 },
                 {
-                    "name": "Suggest a activity app",
-                    "description": "Suggesting a activity for the Barmij.com android camp",
-                    "date": {
-                        "start": "2020-09-10",
-                        "end": "2020-09-19"
-                    },
+                    "id": "fbb98070-30ad-4653-ad38-828947e973eb",
                     "url": "https://github.com/anas-stuff/Suggest-activity-app",
+                    "date": {
+                        "end": "2020-09-19",
+                        "start": "2020-09-10"
+                    },
+                    "name": "Suggest a activity app",
                     "summary": "",
                     "keywords": [],
-                    "id": "fbb98070-30ad-4653-ad38-828947e973eb"
+                    "description": "Suggesting a activity for the Barmij.com android camp"
                 },
                 {
-                    "name": "jls",
-                    "description": "A modern alternative to GNU/ls using Java",
-                    "date": {
-                        "start": "2022-06-03",
-                        "end": "2022-06-28"
-                    },
+                    "id": "fd8b1d7a-8aea-479f-9291-73e40b83452d",
                     "url": "https://github.com/anas-stuff/jls",
+                    "date": {
+                        "end": "2022-06-28",
+                        "start": "2022-06-03"
+                    },
+                    "name": "jls",
                     "summary": "",
                     "keywords": [],
-                    "id": "fd8b1d7a-8aea-479f-9291-73e40b83452d"
+                    "description": "A modern alternative to GNU/ls using Java"
                 },
                 {
-                    "name": "aarty",
-                    "description": "A simple CLI tool to convert the images to ASCII art",
-                    "date": {
-                        "start": "2022-10-03",
-                        "end": "2022-10-05"
-                    },
+                    "id": "d87c3f7f-85a7-4ed7-a4f2-cf86e7d6e8b3",
                     "url": "https://github.com/anas-elgarhy/aarty",
+                    "date": {
+                        "end": "2022-10-05",
+                        "start": "2022-10-03"
+                    },
+                    "name": "aarty",
                     "summary": "",
                     "keywords": [],
-                    "id": "d87c3f7f-85a7-4ed7-a4f2-cf86e7d6e8b3"
+                    "description": "A simple CLI tool to convert the images to ASCII art"
                 },
                 {
-                    "name": "jpwd",
-                    "description": "A modern alternative to GNU/pwd using Java",
-                    "date": {
-                        "start": "2022-06-13",
-                        "end": "2022-06-23"
-                    },
+                    "id": "357d6df1-e3bf-494a-9e78-e7cd3042b5c0",
                     "url": "https://github.com/anas-elgarhy/jpwd",
+                    "date": {
+                        "end": "2022-06-23",
+                        "start": "2022-06-13"
+                    },
+                    "name": "jpwd",
                     "summary": "",
                     "keywords": [],
-                    "id": "357d6df1-e3bf-494a-9e78-e7cd3042b5c0"
+                    "description": "A modern alternative to GNU/pwd using Java"
                 },
                 {
-                    "name": "cmus-rpc",
-                    "description": "A Discord Rich Presence for cmus player using java",
-                    "date": {
-                        "start": "2022-04-07",
-                        "end": "2022-04-13"
-                    },
+                    "id": "9ccac4ba-2df5-459c-8094-b01487d94519",
                     "url": "https://github.com/anas-stuff/cmus-rpc",
+                    "date": {
+                        "end": "2022-04-13",
+                        "start": "2022-04-07"
+                    },
+                    "name": "cmus-rpc",
                     "summary": "",
                     "keywords": [],
-                    "id": "9ccac4ba-2df5-459c-8094-b01487d94519"
+                    "description": "A Discord Rich Presence for cmus player using java"
                 },
                 {
-                    "name": "JColorfulConsole",
-                    "description": "A simple library that enables developers to print colored and styled text in the terminal with Java",
-                    "date": {
-                        "start": "2022-03-24",
-                        "end": "2022-03-26"
-                    },
+                    "id": "fee27b1e-b40a-4300-80e5-e28dacea4785",
                     "url": "https://github.com/anas-elgarhy/JColorfulConsole",
+                    "date": {
+                        "end": "2022-03-26",
+                        "start": "2022-03-24"
+                    },
+                    "name": "JColorfulConsole",
                     "summary": "",
                     "keywords": [],
-                    "id": "fee27b1e-b40a-4300-80e5-e28dacea4785"
+                    "description": "A simple library that enables developers to print colored and styled text in the terminal with Java"
                 },
                 {
-                    "name": "Heritage word game",
-                    "description": "Guessing Historical Objects Game Project Barmij.com android Camp",
-                    "date": {
-                        "start": "2020-09-21",
-                        "end": "2020-09-27"
-                    },
+                    "id": "a86a68cb-d8ca-439c-b07d-744b3810bc74",
                     "url": "https://github.com/anas-stuff/Heritage-word-game-project",
+                    "date": {
+                        "end": "2020-09-27",
+                        "start": "2020-09-21"
+                    },
+                    "name": "Heritage word game",
                     "summary": "",
                     "keywords": [],
-                    "id": "a86a68cb-d8ca-439c-b07d-744b3810bc74"
+                    "description": "Guessing Historical Objects Game Project Barmij.com android Camp"
                 }
             ],
             "columns": 2,
@@ -459,6 +459,28 @@
                     "summary": "",
                     "position": "Devolper",
                     "organization": "ScreenshotMouseClick"
+                },
+                {
+                    "organization": "halp",
+                    "position": "Contributor",
+                    "date": {
+                        "start": "2023-06-24",
+                        "end": "2023-06-24"
+                    },
+                    "url": "https://github.com/orhun/halp/pull/58",
+                    "summary": "Add support for using custom URL for `cheat.sh`",
+                    "id": "c2484df7-19b6-4539-86a4-55b5f65908f4"
+                },
+                {
+                    "organization": "halp",
+                    "position": "Contributor",
+                    "date": {
+                        "start": "2023-06-24",
+                        "end": "2023-07-03"
+                    },
+                    "url": "https://github.com/orhun/halp/pull/62",
+                    "summary": "Refactor the config system",
+                    "id": "a1519269-1660-4639-9947-8e043cb13569"
                 }
             ],
             "columns": 2,
@@ -638,18 +660,18 @@
                     "subtitle": ""
                 },
                 {
-                    "title": "HTML, CSS, and JavaScript",
-                    "subtitle": "",
-                    "date": {
-                        "start": "",
-                        "end": ""
-                    },
+                    "id": "7220e5f6-be7f-43f1-a55b-e54637c1f244",
                     "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
                     "level": "Advanced Beginner",
-                    "levelNum": 5,
+                    "title": "HTML, CSS, and JavaScript",
                     "summary": "I have basic knowledge of HTML, CSS, and JavaScript and have used them to create simple websites. I have experience using HTML to structure and organize content, using CSS to style and layout pages, and using JavaScript to add interactivity and functionality to websites. Likewise, I have also used these technologies to create responsive designs that work on a variety of devices. ",
                     "keywords": [],
-                    "id": "7220e5f6-be7f-43f1-a55b-e54637c1f244"
+                    "levelNum": 5,
+                    "subtitle": ""
                 }
             ],
             "columns": 2,
@@ -702,46 +724,18 @@
                     "subtitle": ""
                 },
                 {
-                    "title": "Vim & NeoVim",
-                    "subtitle": "",
-                    "date": {
-                        "start": "2022-09-03",
-                        "end": ""
-                    },
+                    "id": "2b8d3388-1d15-421d-b358-461b5f7af79c",
                     "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2022-09-03"
+                    },
                     "level": "intermediate",
+                    "title": "Vim & NeoVim",
+                    "summary": "",
+                    "keywords": [],
                     "levelNum": 5,
-                    "summary": "",
-                    "keywords": [],
-                    "id": "2b8d3388-1d15-421d-b358-461b5f7af79c"
-                },
-                {
-                    "title": "Microsoft word",
-                    "subtitle": "",
-                    "date": {
-                        "start": "2016-08-01",
-                        "end": ""
-                    },
-                    "url": "",
-                    "level": "Expert",
-                    "levelNum": 10,
-                    "summary": "",
-                    "keywords": [],
-                    "id": "9581d696-1da9-4201-b007-a906c3e6a2d3"
-                },
-                {
-                    "title": "Power point",
-                    "subtitle": "",
-                    "date": {
-                        "start": "2016-05-11",
-                        "end": ""
-                    },
-                    "url": "",
-                    "level": "Expert",
-                    "levelNum": 10,
-                    "summary": "",
-                    "keywords": [],
-                    "id": "e1d90a4e-d0c1-43ab-8886-c58bb96332bb"
+                    "subtitle": ""
                 }
             ],
             "columns": 3,
@@ -755,6 +749,9 @@
         },
         "date": {
             "format": "MMMM DD, YYYY"
+        },
+        "page": {
+            "format": "A4"
         },
         "theme": {
             "text": "#000000",
@@ -791,13 +788,13 @@
             ],
             [
                 [
-                    "volunteer",
-                    "certifications"
+                    "volunteer"
                 ],
                 []
             ],
             [
                 [
+                    "certifications",
                     "awards",
                     "interests",
                     "languages"
